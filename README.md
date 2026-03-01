@@ -32,7 +32,7 @@ failures in one coin do not affect the processing of others.
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/seu-usuario/crypto-price-tracker.git
+    git clone https://github.com/dan-tovytch/Crypto-Prices-Tracker.git
     cd crypto-price-tracker
     ```
 
